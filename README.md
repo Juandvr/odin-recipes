@@ -1,1 +1,1 @@
-This a practice project of TOP about HTML basics.
+This is a practice project of TOP about HTML basics.
